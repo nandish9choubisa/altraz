@@ -1,0 +1,9 @@
+{
+  "name": "Altraz — AI Misinformation Scanner",
+  "short_name": "Altraz",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0ea5e9",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

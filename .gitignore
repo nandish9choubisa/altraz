@@ -1,0 +1,16 @@
+# env
+.env
+.env.*
+!.env.example
+
+# deps / build
+node_modules
+dist
+.vite
+*.local
+
+# logs & editors
+*.log
+.DS_Store
+.idea
+.vscode/*
